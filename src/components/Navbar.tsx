@@ -3,13 +3,13 @@ export function Navbar() {
 		<div id="navbar" className="flex w-full justify-center bg-verdant-bg-light lg:fixed lg:top-8 lg:bg-verdant-bg">
 			<div className="mx-12 flex justify-start lg:mx-auto">
 				<span className="py-4 text-verdant-fg">
-					janleigh<span className="text-verdant-blue">.is-a.dev</span>
+					ghozi<span className="text-verdant-blue">.is-a.dev</span>
 				</span>
 			</div>
 			<div className="mr-6 mt-3 flex lg:mx-auto lg:my-auto">
 				<div className="flex justify-end">
 					<div className="flex lowercase">
-						<a href="https://github.com/janleigh" target="_blank" className="p-4 text-verdant-fg">
+						<a href="https://github.com/m-ghozi" target="_blank" className="p-4 text-verdant-fg">
 							<svg xmlns="http://www.w3.org/2000/svg" height="24" width="22.5" viewBox="0 0 496 512">
 								<path
 									fill="#dfdddd"
@@ -17,7 +17,7 @@ export function Navbar() {
 								/>
 							</svg>
 						</a>
-						<a href="https://www.instagram.com/jnlghmz" target="_blank" className="p-4 text-white">
+						<a href="https://www.instagram.com/mghozi__" target="_blank" className="p-4 text-white">
 							<svg xmlns="http://www.w3.org/2000/svg" height="24" width="22.5" viewBox="0 0 480 512">
 								<path
 									fill="#dfdddd"
@@ -33,7 +33,7 @@ export function Navbar() {
 								/>
 							</svg>
 						</a> */}
-						<a href="mailto:janleigh@pm.me" target="_blank" className="p-4 text-white">
+						<a href="mailto:ghozi286@gmail.com" target="_blank" className="p-4 text-white">
 							<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 512 512">
 								<path
 									fill="#dfdddd"
