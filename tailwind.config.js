@@ -8,6 +8,7 @@ export default {
 		extend: {
 			colors: {
 				"verdant-green": "#56966e",
+				"verdant-yellow": "#f8e669",
 				"verdant-orange": "#dc8c61",
 				"verdant-red": "#c14d53",
 				"verdant-blue": "#6e95bd",

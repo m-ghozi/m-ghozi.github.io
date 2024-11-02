@@ -17,21 +17,24 @@ export function MainContainer() {
 						I am a Indonesian college student and self-taught full-stack developer.
 						<br />
 						<br />
-						I've been programming since 2021, and I enjoy creating Web Applications,
-						<br />
-						and IoT Device.
+						I've been programming since 2021, and I enjoy creating Web Applications and IoT Device.
 						<br />
 						<br />I am proficient in a variety of programming languages, such as{" "}
 						<span className="text-verdant-blue">TypeScript</span>,{" "}
-						<span className="text-verdant-purple">Python</span>, and{" "}
+						<span className="text-verdant-yellow">Python</span>, and{" "}
 						<span className="text-verdant-red">C++</span>.
 						<br />I am also familiar with a range of web development frameworks and tools such as{" "}
 						<span className="text-verdant-orange">React</span>,
 						<br />
 						<span className="text-verdant-blue">NestJS</span>, and{" "}
-						<span className="text-verdant-orange">Vite</span> and database management systems such as{" "}
+						<span className="text-verdant-purple">Vite</span> and database management systems such as{" "}
 						<span className="text-verdant-green">MongoDB</span> and{" "}
 						<span className="text-verdant-purple">Firebase</span>.
+						<br />
+						Additionally, I am familiar with <span className="text-verdant-red">Linux</span> and IoT
+						devices, including <span className="text-verdant-yellow">ESP32</span>,{" "}
+						<span className="text-verdant-blue">Arduino</span>, and{" "}
+						<span className="text-verdant-green">Raspberry Pi</span>.
 					</div>
 				</div>
 			</div>
