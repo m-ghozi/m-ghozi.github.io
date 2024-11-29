@@ -1,11 +1,11 @@
 {
-	"name": "ghozi.is-a.dev",
+	"name": "janleigh.github.io",
 	"private": true,
 	"version": "4.1.0",
-	"description": "Template from Jan Leigh Muñoz",
+	"description": "My personal website. Powered using React, Vite and Bulma.",
 	"author": {
-		"name": "M. Ghozi Syah Putra",
-		"email": "ghozi286@gmail.com"
+		"name": "Jan Leigh Muñoz",
+		"email": "janleigh@pm.me"
 	},
 	"type": "module",
 	"scripts": {
