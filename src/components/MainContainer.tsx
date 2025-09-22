@@ -4,7 +4,7 @@ export function MainContainer() {
 			<div className="flex flex-col items-center justify-center lg:flex-row">
 				<div className="mx-12 mb-8 mt-8 lg:mb-0 lg:mt-0">
 					<img
-						src="https://github.com/m-ghozi.png"
+						src="pp.png"
 						alt="PFP"
 						className="h-60 w-60 rounded-full bg-verdant-bg-light p-4"
 					/>
