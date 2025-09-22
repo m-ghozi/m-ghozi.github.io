@@ -14,7 +14,7 @@ export function MainContainer() {
 						Hey! I'm <span className="text-verdant-blue">M. Ghozi Syah Putra</span>!
 					</div>
 					<div className="text-base text-verdant-fg-dark">
-						I am a Indonesian college student and self-taught full-stack developer.
+						I am an Indonesian full-stack and IoT developer.
 						<br />
 						<br />
 						I've been programming since 2021, and I enjoy creating Web Applications and IoT Device.
